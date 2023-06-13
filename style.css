@@ -1,0 +1,43 @@
+#flot{
+    width: 600px;
+    height: 250px;
+    margin: 0 auto;
+    background: #FFE7A0;
+    border: 3px solid #FF0060;
+}
+.contient{
+    padding: 0 10px;
+    border-bottom: 3px solid #FF0060;
+}
+.contient1{
+    padding: 0 10px;
+    float: left;
+    width: 280px;
+    background: #4942E4;
+    color: #FFE7A0;
+    border-bottom: 3px solid #FF0060;
+}
+.contient2{
+    padding: 0 10px;
+    float: left;
+    width: 280px;
+    background: #8696FE;
+    color: #FFE7A0;
+    border-bottom: 3px solid #FF0060;
+}
+
+#flexbox{
+    width: 700px;
+    margin: 0 auto;
+    background: #FFE7A0;
+    border: 3px solid #FF0060;
+    
+}
+.flexbox{
+    display: flex;
+    flex-flow: wrap;
+    justify-content:  ;
+}
+.flex_contient{
+    width: 200px;
+}
